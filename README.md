@@ -6,7 +6,7 @@ This iOS weather app is designed to display weather information with the ability
 
 - Display weather information.
 - Toggle between morning and night themes.
-- 
+
 ## Subviews
 
 The app extracts the following subviews for easy customization:
